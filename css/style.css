@@ -1,18 +1,10 @@
-/* 
-        Configurações globais do sistema
-*/
-body
-{
-
+/* Configurações globais do sistema */
+body{
     background-color: #282830;
 }
 
-
-/* 
-        Configurações de fonte
-*/
-h1
-{
+/* Configurações de fonte */
+h1{
     color: #D4D4D4;
     font-size: 42;
     text-align: center;
