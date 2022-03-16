@@ -1,12 +1,13 @@
 /* Configurações globais do sistema */
 body{
-    background-color: #282830;
+    background-color:rgb(37, 39, 39);
+    font-family: Segoe UI;
 }
 
 /* Configurações de fonte */
 h1{
-    color: #D4D4D4;
-    font-size: 42;
+    color: rgba(241, 9, 9, 0.911);
+    font-size: 45px;
     text-align: center;
 }
 
