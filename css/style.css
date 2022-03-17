@@ -17,6 +17,6 @@ h1{
 .topo{
     background-color: #444B54;
     width: 100%;
-    display: inline-block;
+    display: inline-table;
     height: 80px;
 }
