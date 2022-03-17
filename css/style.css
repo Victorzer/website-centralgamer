@@ -1,22 +1,32 @@
 /* Configurações globais do sistema */
 body{
     margin: 0;
-    background-color:#282830;
+    background-color:rgb(37, 39, 39);
     font-family: 'Prompt', sans-serif;
 }
 
-
 /* Configurações de fonte */
 h1{
-    color: #D4D4D4;
+    margin-left: 2%;
+    color: #2C82C9;
     font-size: 45px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Divisória topo */
 .topo{
-    background-color: #444B54;
-    width: 100%;
+    background-color: rgb(99, 107, 114);
     display: inline-table;
-    height: 80px;
+    width: 100%;
+    height: 90px;
+}
+
+/* Divisória de notícias */
+.menu-direito{
+    margin-top: 1%;
+    background-color: #897FBA;
+    width: 220px;
+    height: 92%;
+    float: left;
+    text-align: center;
 }
