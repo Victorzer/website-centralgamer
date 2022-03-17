@@ -32,3 +32,8 @@ h1{
     float: left;
     text-align: center;
 }
+
+/* Divisória dos  botões do cabeçalho */
+.botoes{
+    margin-left: 20%;
+}
