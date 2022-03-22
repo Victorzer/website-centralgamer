@@ -5,8 +5,7 @@ body{
     font-family: 'Prompt', sans-serif;
 }
 
-
-/* Configurações de fonte */
+/* Configurações do nome */
 h1{
     color: #E7E7E7;
     font-size: 120%;
@@ -20,20 +19,37 @@ h1{
     width: 100%;
     display: inline-block;
     height: 10%;
+    border-bottom: 4px solid grey;
 }
 
+/* Links de navegação */
+ul{
+    margin-top: -40px;
+    margin-left: 15%;
+}
+li{
+    display:inline;
+    padding-right: 4%;
+}
+
+/* Botões para os links */
+a:link, a:visited{
+    background-color: #287daa;
+    color: white;
+    text-align: center;
+    border: 1px solid grey;
+}
+a:hover, a:active{
+    background-color: #105174;
+}
 
 /* Divisória de notícias */
 .menu-direito{
-    margin-top: 1%;
+    margin-top: -8px;
     background-color: #897FBA;
-    width: 220px;
-    height: 92%;
+    width: 240px;
     float: left;
     text-align: center;
-}
-
-/* Divisória dos  botões do cabeçalho */
-.botoes{
-    margin-left: 20%;
+    border-right: 4px solid grey;
+    border-bottom: 4px solid grey;
 }
