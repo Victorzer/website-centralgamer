@@ -37,6 +37,7 @@ a:link, a:visited{
     background-color: #287daa;
     color: white;
     text-align: center;
+    padding: 3px 6px;
     border: 1px solid grey;
 }
 a:hover, a:active{
